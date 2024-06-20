@@ -26,6 +26,7 @@ El sitio estará compuesto por el conocido mensaje y número 404 y un footer que
 <hr>
 El tiempo total de desarrollo, teniendo en cuenta la busqueda de las imagenes, resulto ser de dos sentadas de aproximadamente 30-35min. A esto debemos sumar el trabajo previo de 10min de investigación / inspiración. Todo esto concluye en un tiempo aproximado de 1:15hs.
 Si mido los tiempos en los tres item al principio mensionados, resulta:
+
 * Documentación / investigación / inspiración: 10min.
 * Maquetación: 5min.
 * Codificación: 60min (10min HTML, 50min CSS). 
