@@ -1,4 +1,4 @@
-# - Proyecto pagina 404 -
+# - Proyecto página 404 -
 
 ### Este proyecto tiene como cometido ver cuanto tiempo me lleva desarrollar una idea simple. Como objeto de esta test tome la idea de una pagian 404.
 
